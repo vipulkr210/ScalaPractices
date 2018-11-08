@@ -1,2 +1,2 @@
 # ScalaPractices
-Codes to help yo crack Scala Interview
+Codes to help you crack Scala Interview
