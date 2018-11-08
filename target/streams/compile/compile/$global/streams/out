@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mD:\vipul\Scala\ScalaPractices\src\main\scala\hi.scala:1:8: Hi is already defined as object Hi[0m
+[0m[[0m[31merror[0m] [0m[0mobject Hi { def main(args: Array[String]) = println("Hi!") }[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
